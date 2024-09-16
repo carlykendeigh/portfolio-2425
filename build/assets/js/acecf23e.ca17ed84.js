@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_2425=self.webpackChunkportfolio_2425||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/portfolio-2425/blog","blogTitle":"Blog","authorsListPath":"/portfolio-2425/blog/authors"}')}}]);

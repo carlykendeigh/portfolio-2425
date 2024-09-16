@@ -7,10 +7,10 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://carlykendeigh.github.io",
+  "baseUrl": "/portfolio-2425/",
+  "organizationName": "carlykendeigh",
+  "projectName": "portfolio-2425",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -70,7 +70,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/carlykendeigh/portfolio-2425",
           "label": "GitHub",
           "position": "right"
         }
@@ -115,7 +115,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/carlykendeigh/portfolio-2425"
             }
           ]
         }
